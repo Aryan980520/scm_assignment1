@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Feature: This will be a new dashboard for better user management.
+=======
+Feature: A new user interface that improves navigation and accessibility.
+>>>>>>> feature-update
